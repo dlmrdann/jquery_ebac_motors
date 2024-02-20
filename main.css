@@ -131,6 +131,10 @@ button {
     font-size: 14px;
 }
 
+.form-campo {
+    margin-bottom: 16px;
+}
+
 .form-campo label {
     font-weight: bold;
     display: block;
@@ -164,4 +168,6 @@ footer li {
 footer li img {
     height: 32px;
 }
+
+
 
